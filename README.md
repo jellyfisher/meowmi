@@ -9,6 +9,6 @@ The XmlToJsonOutputString class has 2 constructors.  One constructor takes in a 
     public static void main(String[] args) throws Exception {
       XmlToJsonOutputString stream = new XmlToJsonOutputString("//src//main//java//jellyfisher//meowmi//runtime//test.xml");
     
-      System.out.println(stream.parse().toString());
+      System.out.println(stream.parse());
       stream.close();
     }
