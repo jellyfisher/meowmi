@@ -1,4 +1,4 @@
-xdpackage jellyfisher.meowmi;
+package jellyfisher.meowmi;
 
 import java.io.*;
 import java.util.*;
